@@ -7,6 +7,7 @@ Each folder has a `SKILL.md` you can drop into your agent's skills folder, plus 
 | Day | Skill | What it does |
 |-----|-------|--------------|
 | 1 | [Context Transfer](day-01-context-transfer) | Moves a full chat into a new one without losing anything |
+| 2 | [HyperFrames](day-02-hyperframes) | Write one prompt, get a real MP4 video |
 
 New one every day. Posted on X: [@soly_nex](https://x.com/soly_nex)
 
