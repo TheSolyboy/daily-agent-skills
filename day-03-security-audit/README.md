@@ -10,6 +10,10 @@ It runs in 6 phases. It maps the code, sends sub-agents out to hunt for bugs, an
 
 Needs Node.js and an agent that can run sub-agents in parallel (Claude Code, Codex etc).
 
+The whole skill is in the `security-audit/` folder here. Copy that folder into your agent's skills folder (for Claude Code `~/.claude/skills/security-audit/`). `SKILL.md` is the main file, the other files are references and validator scripts it reads, so keep them together.
+
+Or install it straight from Cloudflare:
+
 ```
 npx skills add https://github.com/cloudflare/security-audit-skill --skill security-audit --global
 ```
@@ -18,8 +22,6 @@ Then open your agent in the repo and say "security audit this codebase". The rep
 
 Run it more than once. Cloudflare says a single run found about half of what repeated runs found in total. It also uses a lot of tokens, since it spins up many agents.
 
-This one is not a single `SKILL.md`, it's a skill with reference files and two validator scripts, so install it from the original repo instead of copying files from here.
-
 ## Credit
 
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill), MIT
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill), MIT. Copied as is, license included in `security-audit/LICENSE`
