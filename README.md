@@ -11,6 +11,8 @@ Each folder has a `SKILL.md` you can drop into your agent's skills folder, plus 
 | 3 | [Security Audit](day-03-security-audit) | Turns your agent into a security auditor that double checks its own findings |
 | 4 | [Graphify](day-04-graphify) | Turns your whole project into a graph your agent can query |
 | 5 | [Stop Slop](day-05-stop-slop) | Strips the AI tells out of your agent's writing |
+| 6 | [Socratic Tutor](day-06-socratic-tutor) | Jane Street's skill that teaches you one question at a time |
+| 7 | [Stack Diagram](day-07-stack-diagram) | Describe your stack in one sentence, get the architecture diagram |
 
 New one every day. Posted on X: [@soly_nex](https://x.com/soly_nex)
 
