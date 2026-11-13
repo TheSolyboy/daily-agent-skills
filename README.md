@@ -10,6 +10,7 @@ Each folder has a `SKILL.md` you can drop into your agent's skills folder, plus 
 | 2 | [HyperFrames](day-02-hyperframes) | Write one prompt, get a real MP4 video |
 | 3 | [Security Audit](day-03-security-audit) | Turns your agent into a security auditor that double checks its own findings |
 | 4 | [Graphify](day-04-graphify) | Turns your whole project into a graph your agent can query |
+| 5 | [Stop Slop](day-05-stop-slop) | Strips the AI tells out of your agent's writing |
 
 New one every day. Posted on X: [@soly_nex](https://x.com/soly_nex)
 
