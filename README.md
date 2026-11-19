@@ -15,6 +15,7 @@ Each folder has a `SKILL.md` you can drop into your agent's skills folder, plus 
 | 7 | [Stack Diagram](day-07-stack-diagram) | Describe your stack in one sentence, get the architecture diagram |
 | 8 | [Scrapling](day-08-scrapling) | Lets your agent scrape the sites its normal fetch can't |
 | 9 | [Obsidian Skills](day-09-obsidian) | The official skills that teach your agent to work in your Obsidian vault |
+| 10 | [Unslop](day-10-unslop) | Turns vibecoded, AI-looking UI into a designed interface |
 
 New one every day. Posted on X: [@soly_nex](https://x.com/soly_nex)
 
