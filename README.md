@@ -16,6 +16,7 @@ Each folder has a `SKILL.md` you can drop into your agent's skills folder, plus 
 | 8 | [Scrapling](day-08-scrapling) | Lets your agent scrape the sites its normal fetch can't |
 | 9 | [Obsidian Skills](day-09-obsidian) | The official skills that teach your agent to work in your Obsidian vault |
 | 10 | [Unslop](day-10-unslop) | Turns vibecoded, AI-looking UI into a designed interface |
+| 11 | [Teardown](day-11-teardown) | Turns any machine into a 3D simulator you can take apart |
 
 New one every day. Posted on X: [@soly_nex](https://x.com/soly_nex)
 
