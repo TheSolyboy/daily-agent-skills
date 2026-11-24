@@ -17,6 +17,7 @@ Each folder has a `SKILL.md` you can drop into your agent's skills folder, plus 
 | 9 | [Obsidian Skills](day-09-obsidian) | The official skills that teach your agent to work in your Obsidian vault |
 | 10 | [Unslop](day-10-unslop) | Turns vibecoded, AI-looking UI into a designed interface |
 | 11 | [Teardown](day-11-teardown) | Turns any machine into a 3D simulator you can take apart |
+| 12 | [Grill Me](day-12-grill-me) | Your agent interviews you about your plan and writes every answer down |
 
 New one every day. Posted on X: [@soly_nex](https://x.com/soly_nex)
 
